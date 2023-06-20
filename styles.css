@@ -719,6 +719,7 @@ body > div > footer > div {
 }
 
 /* Shutter Out Vertical */
+.ig-animado,
 #mainDiv
   > div:nth-child(3)
   > div
@@ -743,6 +744,7 @@ body > div > footer > div {
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
 }
+.ig-animado:before,
 #mainDiv
   > div:nth-child(3)
   > div
@@ -774,6 +776,7 @@ body > div > footer > div {
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
 }
+.ig-animado:hover,
 #mainDiv
   > div:nth-child(3)
   > div
@@ -786,6 +789,7 @@ body > div > footer > div {
   > div
   > div
   > a:hover,
+.ig-animado:focus,
 #mainDiv
   > div:nth-child(3)
   > div
@@ -798,6 +802,7 @@ body > div > footer > div {
   > div
   > div
   > a:focus,
+.ig-animado:active,
 #mainDiv
   > div:nth-child(3)
   > div
@@ -812,6 +817,7 @@ body > div > footer > div {
   > a:active {
   color: #d4a262;
 }
+.ig-animado:hover:before,
 #mainDiv
   > div:nth-child(3)
   > div
@@ -824,6 +830,7 @@ body > div > footer > div {
   > div
   > div
   > a:hover:before,
+.ig-animado:focus:before,
 #mainDiv
   > div:nth-child(3)
   > div
@@ -836,6 +843,7 @@ body > div > footer > div {
   > div
   > div
   > a:focus:before,
+.ig-animado:active:before,
 #mainDiv
   > div:nth-child(3)
   > div
@@ -850,4 +858,23 @@ body > div > footer > div {
   > a:active:before {
   -webkit-transform: scaleY(1);
   transform: scaleY(1);
+}
+.elementor-widget-container {
+  background-color: none !important;
+}
+#mainDiv
+  > div:nth-child(3)
+  > div
+  > div
+  > section.elementor-section.elementor-top-section.elementor-element.elementor-element-4825bef.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default
+  > div
+  > div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-8779555
+  > div
+  > div
+  > div
+  > div
+  > a
+  > i {
+  margin: 20px;
+  color: #0000006e;
 }
