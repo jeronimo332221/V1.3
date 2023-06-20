@@ -1,6 +1,7 @@
 function cl(dat) {
   console.log(dat);
 }
+
 function funcionLupa() {
   const lupa = document.querySelector("#lupa");
   const main = document.querySelector("#mainDiv");
@@ -9,7 +10,6 @@ function funcionLupa() {
 
   document.addEventListener("click", (e) => {
     if (e.target == lupa || e.target == lupa2) {
-      cl(e);
       main.classList.toggle("none");
       buscador.classList.toggle("none");
       InpBuscador.focus();
@@ -21,7 +21,9 @@ function funcionRecetas() {
   const elementoOculto = document.querySelector(".recetas-elemento-oculto");
 
   recetas.addEventListener("mouseenter", (e) => {
-    elementoOculto.classList.remove("none");
+    if (window.innerWidth > 600) {
+      elementoOculto.classList.remove("none");
+    }
   });
   recetas.addEventListener("mouseleave", (e) => {
     elementoOculto.classList.add("none");
@@ -114,7 +116,6 @@ function buscarRecientes(datos) {
     if (index >= 0 && index <= 3) {
       graficarColumnaRecientes(element);
     } else {
-      cl(element);
       graficarColumnaRecientes2(element);
     }
   }
@@ -169,6 +170,7 @@ function graficarColumnaRecientes(dato) {
   div3Img1.classList.add("elementor-widget-container");
   const img = document.createElement("IMG");
   img.setAttribute("loading", "lazy");
+  img.setAttribute("alt", "Imagen de Vickuisine");
   img.classList.add("elementor-widget-container");
   if (dato.imagen == "") {
     dato.imagen = "no";
@@ -236,6 +238,7 @@ function graficarColumnaRecientes2(dato) {
   div3Img1.classList.add("elementor-widget-container");
   const img = document.createElement("IMG");
   img.setAttribute("loading", "lazy");
+  img.setAttribute("alt", "Imagen de Vickuisine");
   img.classList.add("elementor-widget-container");
   if (dato.imagen == "") {
     dato.imagen = "no";
@@ -304,6 +307,7 @@ function graficarPortada(dato) {
 
   const img = document.createElement("IMG");
   img.setAttribute("loading", "lazy");
+  img.setAttribute("alt", "Imagen de Vickuisine");
   img.classList.add("attachment-large", "size-large", "wp-image-381");
   if (dato.imagen == "") {
     dato.imagen = "no";
@@ -378,6 +382,7 @@ function graficarPopulares(dato) {
 
   const img = document.createElement("IMG");
   img.setAttribute("loading", "lazy");
+  img.setAttribute("alt", "Imagen de Vickuisine");
   img.classList.add("attachment-large", "size-large", "wp-image-274");
   if (dato.imagen == "") {
     dato.imagen = "no";
@@ -420,9 +425,6 @@ function graficarPopulares(dato) {
 function graficarElemento(dato) {}
 function removerTodosLosGraficos() {
   sectiones = document.querySelectorAll(".section");
-  sectiones.forEach((e) => {
-    cl(e.classList.add("none"));
-  });
 }
 function graficarElementoDestacado(dato) {
   const section = document.querySelector(
@@ -455,6 +457,7 @@ function graficarElementoDestacado(dato) {
 
   const img = document.createElement("IMG");
   img.setAttribute("loading", "lazy");
+  img.setAttribute("alt", "Imagen de Vickuisine");
   img.classList.add("attachment-large", "size-large", "wp-image-274");
   if (dato.imagen == "") {
     dato.imagen = "no";
@@ -493,8 +496,6 @@ function graficarElementoDestacado(dato) {
   div2.appendChild(div3p);
   div3p.appendChild(div3p1);
   div3p1.appendChild(p);
-
-  cl(section);
 }
 function graficarElementoDestacado2(dato) {
   const section = document.querySelector(
@@ -527,6 +528,7 @@ function graficarElementoDestacado2(dato) {
 
   const img = document.createElement("IMG");
   img.setAttribute("loading", "lazy");
+  img.setAttribute("alt", "Imagen de Vickuisine");
   img.classList.add("attachment-large", "size-large", "wp-image-274");
   if (dato.imagen == "") {
     dato.imagen = "no";
@@ -565,8 +567,6 @@ function graficarElementoDestacado2(dato) {
   div2.appendChild(div3p);
   div3p.appendChild(div3p1);
   div3p1.appendChild(p);
-
-  cl(section);
 }
 function graficarElementoDestacado3(dato) {
   const section = document.querySelector(
@@ -599,6 +599,7 @@ function graficarElementoDestacado3(dato) {
 
   const img = document.createElement("IMG");
   img.setAttribute("loading", "lazy");
+  img.setAttribute("alt", "Imagen de Vickuisine");
   img.classList.add("attachment-large", "size-large", "wp-image-274");
   if (dato.imagen == "") {
     dato.imagen = "no";
@@ -637,8 +638,6 @@ function graficarElementoDestacado3(dato) {
   div2.appendChild(div3p);
   div3p.appendChild(div3p1);
   div3p1.appendChild(p);
-
-  cl(section);
 }
 function buscador(datos) {
   graficarTodos(datos);
@@ -695,6 +694,7 @@ function graficarBuscador(grupo) {
     img.setAttribute("width", "275");
     img.setAttribute("height", "275");
     img.setAttribute("loading", "lazy");
+    img.setAttribute("alt", "Imagen de Vickuisine");
     if (dato.imagen == "") {
       dato.imagen = "no";
     }

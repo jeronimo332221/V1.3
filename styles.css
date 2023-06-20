@@ -654,7 +654,7 @@ body > div > footer > div {
   color: #393939;
 }
 .recetas-elemento-oculto ul li a p:before {
-  content: " ↦ ";
+  content: " - ";
   text-align: start;
   background-color: #00000057;
   position: absolute;
@@ -667,4 +667,187 @@ body > div > footer > div {
 }
 .recetas-elemento-oculto ul li a p:hover:before {
   width: 100%;
+}
+
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  45% {
+    transform: translateY(-2px);
+  }
+  75% {
+    transform: translateY(2px);
+  }
+}
+.icon-tabler-chevrons-down {
+  animation: bounce 2s infinite;
+}
+
+/* Underline From Center */
+.wp-block-navigation-item__label {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  position: relative;
+  overflow: hidden;
+}
+.wp-block-navigation-item__label:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 51%;
+  right: 51%;
+  bottom: 0;
+  background: #d4a262;
+  height: 4px;
+  -webkit-transition-property: left, right;
+  transition-property: left, right;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.wp-block-navigation-item__label:hover:before,
+.wp-block-navigation-item__label:focus:before,
+.wp-block-navigation-item__label:active:before {
+  left: 0;
+  right: 0;
+}
+
+/* Shutter Out Vertical */
+#mainDiv
+  > div:nth-child(3)
+  > div
+  > div
+  > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e5666ed.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > a {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  position: relative;
+  background: #d4a262;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+#mainDiv
+  > div:nth-child(3)
+  > div
+  > div
+  > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e5666ed.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > a:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #ffffff;
+  -webkit-transform: scaleY(0);
+  transform: scaleY(0);
+  -webkit-transform-origin: 50%;
+  transform-origin: 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+#mainDiv
+  > div:nth-child(3)
+  > div
+  > div
+  > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e5666ed.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > a:hover,
+#mainDiv
+  > div:nth-child(3)
+  > div
+  > div
+  > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e5666ed.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > a:focus,
+#mainDiv
+  > div:nth-child(3)
+  > div
+  > div
+  > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e5666ed.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > a:active {
+  color: #d4a262;
+}
+#mainDiv
+  > div:nth-child(3)
+  > div
+  > div
+  > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e5666ed.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > a:hover:before,
+#mainDiv
+  > div:nth-child(3)
+  > div
+  > div
+  > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e5666ed.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > a:focus:before,
+#mainDiv
+  > div:nth-child(3)
+  > div
+  > div
+  > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e5666ed.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > a:active:before {
+  -webkit-transform: scaleY(1);
+  transform: scaleY(1);
 }
