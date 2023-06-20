@@ -2,7 +2,7 @@
   {
     "nombre": "Rosca de Pascua",
     "tipo": "panaderia",
-    "descripcion": "Una versión de Rosca de pascua que te va a encantar!💛 Este año te comparto la receta de una rosca de pascua distinta, perfumada con ralladura de cítricos y coronada con frutos secos tostados😍 Guardá esta receta para hacerla este domingo de pascua y disfrutarla en familia!! Antes de pasar a la receta contame desde dónde me lees y si en tu casa comen rosca o roscón de reyes en esta fecha🫶🏽",
+    "descripcion": "Una versión de rosca de pascua que te va a encantar!💛 Este año te comparto la receta de una rosca de pascua distinta, perfumada con ralladura de cítricos y coronada con frutos secos tostados😍 Guardá esta receta para hacerla este domingo de pascua y disfrutarla en familia!! Antes de pasar a la receta contame desde dónde me lees y si en tu casa comen rosca o roscón de reyes en esta fecha🫶🏽",
     "imagen": "A002",
     "Ingredientes": {
       "Prefermento": {
@@ -31,7 +31,7 @@
     "procedimiento": "HORNEADO: Hornear a 180 grados C por 15 - 20 minutos. Retirar, pintar con huevo batido y hornear 5 minutos más. Retirar, colocar la crema pastelera, los frutos secos picados y hornear por 10 minutos más. CREMA PASTELERA: Colocar la leche y el azúcar en una olla y dejar que hierva. En otro bowl mezclar los huevos y el almidón de maíz. Una vez que la leche alcance el punto de ebullición, combinarla con la mezcla de huevos mientras se remueve..."
   },
   {
-    "nombre": "ÑOQUIS CON SALSA DE POLLO Y CREMA",
+    "nombre": "Ñoquis caseros con salsa de pollo",
     "tipo": "panaderia",
     "descripcion": "Pero que combinación!😍 Los ñoquis, uno de mis platos preferidos, con una salsa que crecí comiendo en mi casa Para preparar esta delicia utilizamos las ollas de la nueva línea PRIMARY de @tefal_argentina 🤩 Son de acero inoxidable y aptas para colocar en el horno (ideal si quisiéramos gratinar estos ñoquis con mucho queso😋).",
     "imagen": "1",
@@ -60,9 +60,9 @@
     }
   },
   {
-    "nombre": "PAN LACTAL",
+    "nombre": "Pan lactal",
     "tipo": "panaderia",
-    "descripcion": "La FOCACCIA es un pan de origen italiano, su forma es plana y está cubierto con hierbas, abundante aceite de oliva y otros ingredientes típicos de la cocina mediterránea. Es realmente una exquisitez para el paladar🤤 Además, este pan no necesita amasado y se hace prácticamente solo🙌🏽😁",
+    "descripcion": "La focaccia es un pan de origen italiano, su forma es plana y está cubierto con hierbas, abundante aceite de oliva y otros ingredientes típicos de la cocina mediterránea. Es realmente una exquisitez para el paladar🤤 Además, este pan no necesita amasado y se hace prácticamente solo🙌🏽😁",
     "imagen": "2",
     "Ingredientes": {
       "Esponja": {
@@ -80,7 +80,7 @@
     }
   },
   {
-    "nombre": "CHIPÁ MÁS CROCANTES Y RICOS🧀💛",
+    "nombre": "Chipá 3 quesos",
     "tipo": "panaderia",
     "descripcion": "RECETA SÚPER RÁPIDA Y FÁCIL para hacer chipá en menos de 30 minutos!🤩 Para estos riquísimos chipá usé los quesos de @almacen.elgringuito , un almacén ubicado en Av. Vélez Sarsfield 988 (Córdoba capital) que tiene un montóooon de tipos de queso!😍🧀 La CLAVE de esta receta es utilizar una mezcla de un queso CREMOSO, uno SEMIDURO y uno DURO.",
     "imagen": "3",
@@ -104,7 +104,7 @@
     }
   },
   {
-    "nombre": "HUEVOS REVUELTOS CREMOSOS",
+    "nombre": "Huevos revueltos cremosos",
     "tipo": "desayuno",
     "descripcion": "Te aseguro que esta técnica de cocción te va a dar como resultado unos huevos súper cremosos y sabrosos😍 La manteca le aporta mucha humedad y combina perfecto con el perfume del aceite de oliva. Podés jugar con el tiempo de cocción para hacerlos más cremosos o más séquitos, dependiendo de tu preferencia, solo asegúrate de que estén bien cocidos😌",
     "imagen": "4",
@@ -115,7 +115,7 @@
     }
   },
   {
-    "nombre": "COFFEE CAKE☕️",
+    "nombre": "Coffee cake",
     "tipo": "panaderia",
     "descripcion": "Es una torta que se prepara para acompañar el café o el té. Aunque su nombre lo indique, no lleva café en su lista de ingredientes🤔 Esta torta es ideal para disfrutar en una tarde de amigos y mucha charla. A continuación les dejo la receta🫶🏽",
     "imagen": "5",
@@ -146,7 +146,7 @@
     }
   },
   {
-    "nombre": "PAN SIN AMASADO",
+    "nombre": "Pan sin amasado",
     "tipo": "saludables",
     "descripcion": "Si querés empezar a preparar tu propio pan pero no tenés tiempo para ponerte a amasar, ¡esta receta es para vos! Podés preparar varias piezas para porcionar, congelar y tener pan para toda la semana, solo tenés que multiplicar la receta las veces que vos quieras👌🏽",
     "imagen": "6",
@@ -160,7 +160,7 @@
     "Rinde": "1 hogaza de 900 g aprox"
   },
   {
-    "nombre": "Tarta blanca de coco",
+    "nombre": "Coconut cream pie",
     "tipo": "postre",
     "descripcion": "Una deliciosa tarta de coco con una cremosa mezcla de leche, crema y coco rallado, cubierta con chantilly y escamas de coco. ¡Una delicia tropical!",
     "imagen": "7",
@@ -192,7 +192,7 @@
     "procedimiento": "Masa Sablée: Batir la manteca pomada con el azúcar hasta obtener una crema blanca. Añadir la yema y emulsionar. Por último, agregar la harina y la sal. Integrar todo sin amasar. Colocar la masa en un film y enfriar por 30 minutos en el freezer. Estirar la masa de 1 cm entre papel film y fonzar una tartera de 24 cm. Reservar en freezer por 1 h. Colocar encima de la masa fría papel aluminio y por encima material de carga (algún tipo de legumbres). Hornear con el material a 170°C por 15 minutos y luego sin este por 10-15 minutos o hasta que dore ligeramente. Retirar, desmoldar y dejar enfriar por completo.\n\nCrema de coco: En una sartén, colocar el coco rallado y tostarlo a fuego medio-bajo, removiendo constantemente, hasta que obtenga un color dorado. Colocarlo en un recipiente y reservar. En un bowl aparte, combinar el huevo, las yemas y el almidón de maíz. Luego, en una cacerola calentar la leche junto con la crema de leche y el azúcar. Una vez que alcance el punto de ebullición, verter la mezcla de la leche a la de huevos y mezclar. Pasar la mezcla a la cacerola y cocinar a fuego medio hasta que espese. Retirar del fuego y agregar la esencia de vainilla y el coco rallado tostado. Verter la mezcla en la tarta ya horneada y dejar enfriar. \n\nCrema chantilly: En un bowl, batir la crema de leche con el azúcar y la esencia de vainilla hasta que forme picos suaves. Decorar la tarta con la crema"
   },
   {
-    "nombre": "ROSCA DE PASCUA CON ALMENDRAS TOSTADAS",
+    "nombre": "Rosca de pascua con almendras",
     "tipo": "panaderia",
     "descripcion": "Este año cambiamos la clásica rosca por esta con almendras tostadas y muuucha crema pastelera😍 Si hacen esta receta me encantaría recibir sus fotos!😌💛",
     "imagen": "8",
@@ -226,7 +226,7 @@
     "procedimiento": "1. Hornear a 180 grados C por 20 minutos. 2. Retirar, pintar con huevo batido y hornear 5 minutos más. 3. Retirar, colocar la crema pastelera y hornear por 10 minutos más. Colocar la leche y el azúcar en una olla y dejar que hierva. En otro bowl mezclar los huevos y el almidón de maíz. Una vez que la leche alcance el punto de ebullición, combinarla con la mezcla de huevos mientras se remueve constantemente. Colocar la mezcla nuevamente en la olla y cocinar hasta espesar. Una vez lista, apagar el fuego e incorporar la esencia de vainilla. Colocarla en un recipiente amplio con papel film en contacto y dejar enfriar en heladera por aproximadamente 2 horas. Antes de utilizar, batir para recuperar la textura original. Opcional: tamizar para deshacerse de cualquier grumo y obtener una textura súper sedosa."
   },
   {
-    "nombre": "GALLETONES DE AVENA",
+    "nombre": "Galletones de avena",
     "tipo": "panaderia",
     "descripcion": "Con un interior súuuper suavecito y un sabor especiado increíble!😍\n☑️Sin harinas ni azúcares refinados\n☑️Perfectos para llevar al trabajo y para la merienda de los chicos\n☑️Se pueden congelar\nAsegurate de que tus harinas sean de CALIDAD! Yo uso avena y harina integral agroecológica y sin agrotóxicos de @acuario.organicos . El sabor y las texturas de los cereales son increíbles!🙌🏽",
     "imagen": "9",
@@ -248,7 +248,7 @@
     "procedimiento": "Batir la manteca con el azúcar. Añadir el huevo y emulsionar. Integrar los ingredientes secos a los húmedos sin batir. Debe quedar una masa pegajosa, no se debe agregar más harina. Con ayuda de unas cucharas, colocar pequeñas porciones en placas enmantecadas y refrigerar por 30 minutos. Hornear a 200 grados por 15 minutos. Retirar del horno, esperar 2 minutos y luego colocarlas sobre una rejilla. Se conservan en un recipiente hermético hasta por 5 días."
   },
   {
-    "nombre": "FAINÁ",
+    "nombre": "Fainá",
     "tipo": "panaderia",
     "descripcion": "NUNCA había probado algo parecido!!😍 La FAINÁ es una especie de tortilla o masa hecha con harina de garbanzos, aceite, sal y pimienta. Lo que me sorprende de este plato es que, además de ser exquisito, es sumamente económico, fácil de preparar y súper nutritivo!🤩 Antes de pasar a la receta, contame en los comentarios si en donde vivís se come habitualmente esta delicia!😋",
     "imagen": "10",
@@ -262,7 +262,7 @@
     "procedimiento": "1. Precalentar el horno a 200°C.\n2. Mezclar la harina de garbanzos con la sal y la pimienta negra.\n3. Agregar el agua y mezclar bien hasta obtener una masa líquida y homogénea.\n4. Agregar el aceite y mezclar nuevamente.\n5. Engrasar una pizzera grande con aceite y verter la masa.\n6. Llevar al horno por aproximadamente 40 minutos o hasta que esté dorada.\n7. Retirar del horno y dejar enfriar unos minutos antes de servir. ¡Listo para disfrutar!"
   },
   {
-    "nombre": "PAN DE MASA MADRE❤️🥖",
+    "nombre": "Pan de masa madre",
     "tipo": "panaderia",
     "descripcion": "Ésta receta y técnica uso para hacer la mayoría de mis panes de masa madre🙌🏽\n\nCada día aprendo más y más sobre el pan de fermentación natural y parte es gracias a @glutenmorgen ❤️ Saqué las cantidades y el procedimiento de sus videos de YouTube❤️\n\nPero no es la receta ni es la técnica, sino la PRÁCTICA y las ganas de aprender sobre cómo funciona este mundo lo que permite sacar maravillosos panes del horno💪🏽❤️",
     "imagen": "11",
@@ -278,7 +278,7 @@
     "procedimiento": "Disolver la masa madre activa en el agua y agregar la harina.\nDejar reposar una hora para que haga autólisis.\nAgregar la sal y amasar por 15 minutos con la técnica de Bertinett (buscar video explicativo en YouTube) o utilizando la batidora con gancho amasador. Dejar reposar por 50 minutos.\nRealizar 4 sets de 4 pliegues cada 50 minutos. Colocar la masa tapada en heladera entre sets.\nDejar fermentar por 2 horas a temperatura ambiente.\nColocar la masa sobre una mesada enharinada y darle la forma que muestra en el video.\nPoner la masa en el molde indicado (colocar una tela, film o plástico enharinado para evitar que la masa se pegue al mismo) y dejar fermentar la masa en frío por 10-12hs.\nColocar la masa sobre una tabla con abundante..."
   },
   {
-    "nombre": "BUDÍN DE PAN SIN AZÚCAR❤️",
+    "nombre": "Budín de pan bajo en azúcar",
     "tipo": "saludables",
     "descripcion": "Hoy te invito a darle una segunda oportunidad a ese pan duro que tenés en tu alacena de una manera más saludable😌‼️La cantidad de comida que se desperdicia en el mundo es inimaginable. Es importante accionar para disminuir este desperdicio y enseñar a las futuras generaciones que el cambio empieza por casa. ¿Te sumás al cambio?❤️ Acá va la receta. De más está decir que este postre es RIQUÍSIMO y está hecho con consciencia, ya que reutilizamos ingredientes y lo estamos haciendo más nutritivo para nosotros😌💛",
     "imagen": "12",
@@ -299,7 +299,7 @@
     "procedimiento": "Trocear el pan, colocarlo en un bowl y reservar. Hervir la leche y luego verterla sobre el pan. En un bowl aparte desligar los huevos y añadir la stevia, la ralladura de naranja, la ralladura de limón y la esencia de vainilla. Incorporar la mezcla de huevos a la de pan y mezclar. Caramelo opcional: derretir el azúcar en una sartén y una vez que obtenga un color caramelo claro colocarlo en una flanera o molde de 24cm. Con mucho cuidado, moverlo para que el caramelo cubra las paredes del molde. Dejar que este se enfríe y endurezca. Colocar la mezcla de pan en el molde (acaramelado o no) y luego colocarlo en una bandeja apta para horno con agua para realizar una cocción a baño maria. Luego tapar con papel aluminio y hornear..."
   },
   {
-    "nombre": "DULCE DE LECHE CASERO – Como el que hacían las abuelas",
+    "nombre": "Dulce de leche casero",
     "tipo": "postre",
     "descripcion": "Una receta súper fácil de hacer con solamente 3 ingredientes. Es importante remover de vez en cuando para que el dulce no se pegue y más aún cuando toma color caramelo. Se puede utilizar una olla de acero inoxidable para reducir la necesidad de remover constantemente.",
     "imagen": "13",
@@ -313,9 +313,9 @@
     "procedimiento": "Colocar la leche, el azúcar y el bicarbonato de sodio en una olla y mezclar bien. Calentar a fuego medio, revolviendo ocasionalmente, hasta que la mezcla comience a hervir. Reducir el fuego a bajo y cocinar a fuego lento durante aproximadamente 3 horas, revolviendo cada 10-15 minutos para evitar que se pegue. El dulce de leche estará listo cuando haya tomado un color marrón oscuro y tenga una textura espesa y cremosa. Dejar enfriar y guardar en un recipiente hermético en la nevera hasta que se necesite."
   },
   {
-    "nombre": "AVENA CREMOSA",
+    "nombre": "Avena súper cremosa",
     "tipo": "desayuno",
-    "descripcion": "La avena más cremosa y rica! Con una textura y sabor inigualable gracias a la avena gruesa cruda. Además, se pueden agregar una gran variedad de toppings para personalizarla a nuestro gusto. Conseguí una avena de calidad en @mercadoacuario.",
+    "descripcion": "¡La avena más cremosa y rica! Con una textura y sabor inigualable gracias a la avena gruesa cruda. Además, se pueden agregar una gran variedad de toppings para personalizarla a nuestro gusto. Conseguí una avena de calidad en @mercadoacuario.",
     "imagen": "14",
     "Ingredientes": {
       "avena gruesa cruda": "50 g",
@@ -336,7 +336,7 @@
     "procedimiento": "Remojar la avena gruesa cruda en agua o leche durante al menos una noche con unas gotitas de jugo de limón. Luego, colocar la avena y la leche en una olla y calentar a fuego medio hasta que la avena esté cremosa y cocida. Agregar esencia de vainilla y endulzante al gusto. Servir en un bowl y agregar los toppings de preferencia."
   },
   {
-    "nombre": "VOLCÁN DE CHOCOLATE",
+    "nombre": "Volcán de chocolate",
     "tipo": "postre",
     "descripcion": "¡Un postre delicioso para compartir en San Valentín! Este volcán de chocolate es perfecto para los amantes del chocolate y muy fácil de preparar. ¡Guarda la receta para no perderla!",
     "imagen": "15",
@@ -354,7 +354,7 @@
     "procedimiento": "Precalentar el horno a 180 grados. Derretir el chocolate con la manteca y reservar. En otro recipiente batir el huevo, la yema, el azúcar y la esencia de vainilla. Integrar la mezcla de huevo a la de chocolate. Por último agregar la harina y la sal. Colocar la mezcla en moldes aptos para horno enmantecados y enharinados hasta llenar 3/4 de su capacidad. Hornear por 11 minutos. Retirar del horno, desmoldar, decorar con azúcar impalpable y servir de inmediato."
   },
   {
-    "nombre": "SANDWICH VEGETARIANO",
+    "nombre": "Sandwich veggie mediterráneo",
     "tipo": "panaderia",
     "descripcion": "Ideal para un almuerzo liviano y delicioso. Si no te gusta la berenjena, puedes sustituirla con hongos, zucchini, alguna burger veggie o lo que más te guste!",
     "imagen": "15",
@@ -377,7 +377,7 @@
     "procedimiento": "Rebozar las berenjenas en huevo batido y pan rallado, luego freírlas en aceite de oliva hasta que estén doradas. Mezclar el queso crema, la albahaca fresca y el aceite de oliva para hacer la crema para untar. Tostar las rodajas de pan. Untar la crema para untar en una rodaja de pan, colocar las berenjenas rebozadas, el tomate y las fetas de queso de máquina. Cubrir con la otra rodaja de pan tostado. Disfrutar!"
   },
   {
-    "nombre": "PASTAFROLA DE MEMBRILLO❤️",
+    "nombre": "Pastafrola de membrillo",
     "tipo": "panaderia",
     "descripcion": "Les vuelvo a compartir esta receta que nunca pasa de moda... La pastafrola me recuerda a mi infancia❤️ Cuando era chica una persona muy especial me hacía una gigante en molde de pizza. Yo sinceramente no podía esperar a que se enfriara y la comía caliente. Esto para mi era, el mayor placer de la vida. A esa misma persona le pedía que me haga pastafrolas individuales para vender a mis compañeros a la salida del colegio, pero lo cierto es que me las terminaba comiendo a todas y no vendía nada🤣🤣 ¿Tenés algún recuerdo con este dulce? ¿Quién te preparaba pastafrola? Te leo en los comentarios😘👇🏽 La receta de la masa es de @andrearecetas ❤️ Cuando probé su receta no volví a usar otra. ‼️No olvides dejar tu me gusta y tu comentario para que Instagram te siga mostrando mis recetas🤩",
     "imagen": "16",
@@ -397,7 +397,7 @@
     "procedimiento": "Batir la manteca con el azúcar hasta obtener una crema blanca. Añadir el huevo y emulsionar. Por último agregar la harina, el bicarbonato de sodio y la pizca de sal. Integrar todo sin amasar. Colocar la masa en un film y enfriar por 30 minutos en el freezer. Dulce: cortar en pequeños cubos y calentar en el microondas con un chorrito de agua hasta que se ablande. Hacer un puré con un tenedor. Tomar 2/3 de la masa, colocarla entre papel film y estirarla de 0,5cm. Fonzar una tartera de 20 cm y poner el dulce por encima. Reservar en freezer. Estirar el 1/3 restante de la masa, cortar tiras y hacer un enrejado por encima. Hornear por 40 minutos a 180°C."
   },
   {
-    "nombre": "PANQUEQUES CON DULCE DE LECHE",
+    "nombre": "Panqueques con dulce de leche",
     "tipo": "postre",
     "descripcion": "Esta receta de panqueques con dulce de leche es perfecta para sorprender a tus invitados. Es fácil de hacer y lleva pocos ingredientes. ¡No te pierdas la oportunidad de lucirte en la cocina!",
     "imagen": "17",
@@ -415,7 +415,7 @@
     "procedimiento": "En un bowl mezclar los huevos con la harina y la pizca de sal. Incorporar de a poco la leche, mezclando hasta lograr una mezcla homogénea. Calentar una sartén antiadherente a fuego medio y volcar una porción de la mezcla. Cocinar hasta que se dore de un lado, luego dar vuelta y cocinar del otro lado. Repetir con el resto de la mezcla. Para armar los panqueques, colocar una cucharada de dulce de leche en el centro de cada uno y cerrar formando un rollito. Servir caliente. ¡Disfrutá de esta delicia!"
   },
   {
-    "nombre": "ALFAJORCITOS DE LIMÓN",
+    "nombre": "Alfajorcitos de limón",
     "tipo": "panaderia",
     "descripcion": "La mejor receta de alfajorcitos de limón para que hagas en tu casa! También son una muy buena idea para regalar en San Valentín. Si no sos fan del relleno de limón podés sustituirlo con dulce de leche repostero.",
     "imagen": "18",
@@ -439,7 +439,7 @@
     "procedimiento": "Masa: mezclar la harina junto con el azúcar impalpable, la sal y la ralladura de limón. Luego agregar la manteca en trocitos y formar un arenado utilizando las yemas de los dedos. Hacer este paso de manera rápida para no derretir la manteca con el calor de las manos. Si se dispone de una batidora eléctrica utilizarla para realizar el arenado. Agregar las yemas y mezclar sin amasar. Quedará una masa seca pero se debe evitar agregar líquido. Llevar a la mesada y presionar con la palma de la mano hasta formar una masa homogénea. Colocar la masa dentro de un papel film, estirarla de 1cm de grosor y llevar al freezer por 30 minutos. Una vez pasado el tiempo, cortar las tapas y colocarlas en una placa sin enmantecar. Llevarlas al freezer por 5 minutos y luego hornear a 170 grados por 6-8 minutos. No deben dorarse. Una vez listas, dejarlas enfriar en la placa y luego retirarlas. Relleno: batir la manteca junto con el azúcar impalpable hasta obtener una mezcla cremosa. Agregar la leche en polvo y un chorrito de jugo de limón. Mezclar hasta integrar. Armar los alfajorcitos uniendo las tapas con una cucharadita del relleno. Para finalizar, espolvorear con azúcar impalpable."
   },
   {
-    "nombre": "TORTA ROGEL",
+    "nombre": "Torta Rogel",
     "tipo": "panaderia",
     "descripcion": "La Rogel es una torta que se consume mucho en Argentina. Consiste de varias capas de masa crocante, untadas con abundante dulce de leche y coronadas con un buen y espumoso merengue italiano. Esta torta lleva POCOS INGREDIENTES, es muy ECONÓMICA y es RIQUÍSIMA!",
     "imagen": "19",
@@ -459,7 +459,7 @@
     "procedimiento": "Mezclar la harina, la sal y la manteca fría en pequeños cubos con los dedos y formar un arenado. Añadir los huevos y mezclar. Pasar a la mesada y amasar por 2 minutos hasta obtener una masa lisa. Envolver la masa en film y llevar a la heladera por al menos 2 horas. Sacar la masa y dividirla en 10. Estirar con un palo de amasar cada porción lo más finita que se pueda y luego recortar con una base circular. Es recomendable usar una más grande que nuestro disco de masa final, ya que en el horno la masa se encoge. Pinchar con tenedor y hornear a 200 grados C por 8 - 12 minutos o hasta que alcance el tostado deseado. En una olla colocar el agua, por encima el azúcar y dejar hervir. El almíbar debe llegar a los puntos de bola suave (117°C). Mientras se hace el almíbar, comenzar a batir las claras a punto nieve. Agregar el almíbar caliente en forma de hilo sin dejar de batir hasta que el merengue se enfríe. Una vez que las masas se enfríen, armar la torta: masa, dulce de leche y así sucesivamente. Por último, cubrir toda la torta con el merengue italiano y decorar a gusto."
   },
   {
-    "nombre": "BUDÍN DE LIMÓN",
+    "nombre": "Budín aterciopelado de limón",
     "tipo": "panaderia",
     "descripcion": "¡La MEJOR receta que probé hasta ahora!🤩 Este budín es un MANJAR. Es dulce y a la vez ácido, tiene un increíble aroma a limón y es tan suave que se nos deshace en la boca. El SECRETO de la suavidad y humedad de la miga se debe a la miel y a la baja temperatura del horno🙌🏽",
     "imagen": "20",
@@ -483,7 +483,7 @@
     "procedimiento": "Precalentar el horno a 170 °C. En un bowl grande, mezclar la manteca pomada con el azúcar y la miel hasta obtener una mezcla cremosa. Agregar la ralladura de limón y el jugo de medio limón. Incorporar los huevos de a uno, batiendo bien después de cada uno. Agregar la harina tamizada, el polvo para hornear y la sal. Mezclar hasta obtener una mezcla homogénea. Verter la mezcla en un molde previamente enmantecado y enharinado. Hornear por 45 minutos o hasta que al pinchar con un palito, este salga limpio. Dejar enfriar antes de desmoldar. Para el glaseado, mezclar azúcar impalpable y jugo de limón hasta obtener la consistencia deseada. Verter sobre el budín enfriado."
   },
   {
-    "nombre": "Masa Madre",
+    "nombre": "Cómo hacer una Masa Madre de 0",
     "tipo": "panaderia",
     "descripcion": "Les voy a enseñar a preparar una masa madre de forma sencilla y sin rodeos. Es importante que vean el video y también lean toda la información escrita para que realicen bien el proceso! Pueden anotar todo en un cuaderno si les resulta más práctico. Si es la primera vez que hacen masa madre y no les sale, es completamente NORMAL. El mundo de la panificación natural puede resultar complicado al principio, pero con el tiempo uno va entendiendo cómo funciona. El proceso dura 5 días.",
     "imagen": "6",
@@ -495,7 +495,7 @@
   },
 
   {
-    "nombre": "CUADRADOS HÚMEDOS DE BANANA Y COCO",
+    "nombre": "Cuadrados húmedos de banana y coco",
     "tipo": "postre",
     "descripcion": "Estos cuadrados de banana y coco son dulces y frescos a la vez. Son ideales para disfrutar en una tarde de verano como merienda o como postre con una bola de helado de dulce de leche y nueces.",
     "imagen": "21",
@@ -512,7 +512,7 @@
     "procedimiento": "Precalentar el horno a 170 grados y colocar papel manteca en una fuente de 20 x 20 cm. Mezclar la manteca junto con el azúcar. Luego añadir los huevos, la banana hecha puré y el coco rallado. Por último, agregar la harina, el polvo de hornear y la sal. Colocar la mezcla en la fuente y decorar con más coco rallado por encima. Hornear por 25 minutos. Una vez listo, retirar del horno y dejar enfriar."
   },
   {
-    "nombre": "FOCACCIA",
+    "nombre": "Focaccia",
     "tipo": "panaderia",
     "descripcion": "La FOCACCIA es un pan de origen italiano, su forma es plana y está cubierto con hierbas, abundante aceite de oliva y otros ingredientes típicos de la cocina mediterránea. Es realmente una exquisitez para el paladar🤤 Además, este pan no necesita amasado y se hace prácticamente solo🙌🏽😁",
     "imagen": "22",
@@ -526,7 +526,7 @@
     "procedimiento": "1. En un bowl, mezclar la harina con la levadura y la sal.\n2. Agregar el agua y mezclar con una cuchara de madera o espátula hasta obtener una masa pegajosa.\n3. Cubrir el bowl con papel film y dejar reposar la masa durante 2 horas en un lugar cálido.\n4. Precalentar el horno a 220°C.\n5. En una placa para horno, colocar papel manteca y esparcir aceite de oliva generosamente.\n6. Volcar la masa en la placa y con los dedos presionar la masa para extenderla uniformemente.\n7. Hacer hoyos con los dedos en la masa.\n8. Agregar más aceite de oliva y esparcir hierbas y especias a gusto.\n9. Hornear durante 20-25 minutos hasta que esté dorada.\n10. Retirar del horno y dejar enfriar antes de cortar en porciones y servir. Disfrutar sola o con una mezcla de aceite de oliva y aceto balsámico🤤"
   },
   {
-    "nombre": "TORTA DE PERA",
+    "nombre": "Torta húmeda de pera",
     "tipo": "saludables",
     "descripcion": "Una opción rica, fácil y rápida para merendar en estos días de calor☀️. Es súper húmeda, suave y ligera. Tiene un ingrediente secreto y ese es el puré de pera. Este le aporta a la preparación más humedad y dulzor sin la necesidad de agregar más azúcar!! ¿Es genial no?😍",
     "imagen": "24",
@@ -549,7 +549,7 @@
     "procedimiento": "En un bowl, mezclar los ingredientes secos (harina y sal) y reservar. En otro bowl, batir los huevos y agregar el aceite neutro, la leche, el azúcar, la pera pisada sin cáscara y la esencia de vainilla. Mezclar bien y agregar los ingredientes secos poco a poco, mezclando hasta incorporar bien. Agregar las peras cortadas en cubos y mezclar con cuidado. Colocar la mezcla en un molde previamente enmantecado y enharinado. Decorar con las nueces y hornear a 180°C durante aproximadamente 40 minutos o hasta que al pinchar con un palillo salga limpio. Dejar enfriar, espolvorear con azúcar impalpable y servir. ¡Que disfruten su deliciosa torta de pera!🍐😋"
   },
   {
-    "nombre": "TORTA SÚPER HÚMEDA DE CHOCOLATE Y AVENA!",
+    "nombre": "Torta húmeda de avena y cacao",
     "tipo": "postre",
     "descripcion": "Un postre diferente y delicioso para disfrutar en la mesa de año nuevo! Con base de avena y suuuuuper chocolatosa! Solamente para amantes del chocolate amargo. Si no sos muy fan del chocolate amargo, tengo muchas más recetas de postres en mi feed para que hagas este 31/12👏🏽",
     "imagen": "25",
@@ -612,7 +612,7 @@
     "procedimiento": "Mezclar en un bowl los ingredientes secos: harina, azúcar, azúcar mascabo, polvo para hornear, canela, nuez moscada, jengibre, sal y bicarbonato de sodio. En otro bowl mezclar los ingredientes húmedos: huevos, zanahoria rallada, manteca derretida y miel. Integrar ambos bowls. Colocar la preparación en un molde previamente enmantecado y enharinado. Llevar a horno precalentado a 160 grados C por 60 minutos o hasta que al insertar un palillo este salga limpio pero no del todo seco, que tenga rastros de humedad. Enfriar y desmoldar. Para la crema de queso, batir la crema de leche hasta que tenga consistencia de chantilly, agregar el queso crema y azúcar impalpable y batir hasta integrar. Servir el budín con la crema de queso por encima."
   },
   {
-    "nombre": "TURRÓN CROCANTE DE MANÍ",
+    "nombre": "Turrón crocante de maní",
     "tipo": "postre",
     "descripcion": "Una deliciosa opción para los amantes de los turrones navideños. Esta receta es súper fácil de hacer, económica y solo requiere de dos ingredientes. ¡Ideal para compartir en familia o regalar en las fiestas!",
     "imagen": "27",
@@ -918,7 +918,7 @@
     "procedimiento": "Colocar el coco rallado en una procesadora de alimentos y procesar hasta que se forme una pasta espesa. Agregar la 1/2 taza de agua y procesar nuevamente hasta obtener una mezcla suave y homogénea. Colocar la mezcla en un frasco y guardar en la nevera hasta su uso. Esta “manteca” de coco casera se mantendrá fresca en la nevera durante varias semanas."
   },
   {
-    "nombre": "PAN DE BATATA🍠 PARA HAMBURGUESA🤩",
+    "nombre": "Pan de batata para hamburguesa",
     "tipo": "panaderia",
     "descripcion": "Este pan de batata para hamburguesa es esponjoso, húmedo y tiene un delicioso sabor a batata.",
     "imagen": "45",
@@ -1148,7 +1148,7 @@
     "procedimiento": "Mezclar la crema de leche y el azúcar en una cacerola y llevar a fuego medio hasta que hierva. Agregar el café y seguir cocinando, revolviendo ocasionalmente, hasta que la mezcla espese y tenga la consistencia deseada (unos 20-25 minutos aproximadamente). Retirar del fuego y dejar enfriar antes de guardar en un frasco hermético en la nevera. ¡Disfrutar!"
   },
   {
-    "nombre": "MERENGUITOS!!!😍",
+    "nombre": "Merenguitos",
     "tipo": "panaderia",
     "descripcion": "Si sos fan de los merenguitos como yo, ¡esta es la receta perfecta para vos!🤩",
     "imagen": "54",
