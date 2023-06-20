@@ -16,7 +16,19 @@ function funcionLupa() {
     }
   });
 }
+function funcionRecetas() {
+  const recetas = document.querySelector("#recetas");
+  const elementoOculto = document.querySelector(".recetas-elemento-oculto");
+
+  recetas.addEventListener("mouseenter", (e) => {
+    elementoOculto.classList.remove("none");
+  });
+  recetas.addEventListener("mouseleave", (e) => {
+    elementoOculto.classList.add("none");
+  });
+}
 window.addEventListener("load", function () {
+  funcionRecetas();
   funcionLupa();
   obtenerTodosLosDatos();
   generarPagina();
