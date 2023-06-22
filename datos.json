@@ -1,4 +1,34 @@
   {
+    "nombre": "Budín de Calabacín",
+    "tipo": "panaderia",
+    "descripcion": "Si tenés un calabacín en casa, tenés que preparar este BUDÍN DE CALABACÍN para la hora de la merienda🧡\n\nEs una opción diferente, riquísima y saludable para disfrutar con una taza de café en estos días más fresquitos.\n\nEl calabacín le aporta mucha humedad y un sabor muy sutil a la masa. También podés preparar el budín con zapallo kabutia, el cual le va a aportar un color y un sabor más intenso a la masa😋\n\nAnimate a esta combinación y contame en los comentarios que te pareció🧡",
+    "imagen": "budíndecalabacín.jpg",
+    "Ingredientes": {
+     "Húmedos": {
+      "puré de calabacín": "425 g de puré de calabacín",
+      "BUTTERMILK": "250 g de BUTTERMILK (250 g de leche + 15 g de jugo de limón)",
+      "huevos": "2 huevos",
+      "manteca": "100 g de manteca",
+      "azúcar blanca": "100 g de azúcar blanca",
+      "azúcar mascabo": "100 g de azúcar mascabo",
+      "esencia de vainilla": "1 cucharadita de esencia de vainilla"
+     },
+     "Secos": {
+      "harina": "250 g de harina 0000",
+      "harina de avena": "50 g de harina de avena",
+      "polvo para hornear": "1 cucharadita de polvo para hornear",
+      "bicarbonato de sodio": "1 cucharadita de bicarbonato de sodio",
+      "canela": "1/2 cucharadita de canela",
+      "sal": "1/2 cucharadita de sal",
+      "nuez moscada": "1 pizca de nuez moscada"
+     },
+     "Decoración": {
+      "frutos secos": "80 g de frutos secos"
+    }
+    },
+    "procedimiento": "Precalentar el horno a 170°C.\n\nEn un bowl, mezclar los ingredientes húmedos: puré de calabacín, BUTTERMILK, huevos, manteca, azúcar blanca y azúcar mascabo, y esencia de vainilla.\n\nEn otro bowl aparte, combinar los ingredientes secos: harina, harina de avena, polvo para hornear, bicarbonato de sodio, canela, sal y nuez moscada.\n\nAgregar los ingredientes secos al bowl de ingredientes húmedos y mezclar hasta obtener una masa homogénea.\n\nVerter la masa en una budinera de 26 x 9 x 9 cm previamente engrasada o cubierta con papel manteca.\n\nDecorar la superficie con los frutos secos.\n\nHornear durante aproximadamente 65 minutos o hasta que al insertar un palillo en el centro, este salga limpio.\n\nRetirar del horno y dejar enfriar antes de desmoldar.\n\nServir y disfrutar en la hora de la merienda."
+  },
+  {
   "nombre": "Rosquitos de mi abuela Amalia💛",
   "tipo": "panaderia",
   "descripcion": "Cada vez que vamos a la casa de campo de mi abuela, en las Sierras de Córdoba, ella nos recibe con una bandeja llena de rosquitos😍\n\nLos rosquitos son bizcochitos dulces perfumados con vino blanco, que tienen forma de pequeñas roscas (de ahí el nombre!).\n\nMi abuela siempre hace muchos (somos muchos en la familia!) para acompañar el mate y el cafecito luego de un rico asado.\n\nTienen que hacer esta receta porque es muy fácil, se hace rápida y es riquísima!! Además, son ideales para acompañar el mate🧉",
