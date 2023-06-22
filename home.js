@@ -383,7 +383,7 @@ function graficarPopulares(dato) {
   const img = document.createElement("IMG");
   img.setAttribute("loading", "lazy");
   img.setAttribute("alt", "Imagen de Vickuisine");
-  img.classList.add("attachment-large", "size-large", "wp-image-274");
+  img.classList.add("attachment-large", "size-large", "wp-image-381");
   if (dato.imagen == "") {
     dato.imagen = "no";
   }
