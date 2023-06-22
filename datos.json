@@ -1,4 +1,22 @@
-[
+  {
+    "nombre": "Barritas de cereal",
+    "tipo": "snack",
+    "descripcion": "¡Anímense a preparar sus propias barritas de cereal en casa con esta receta! Son un snack saludable, rico y económico🙌🏽\n\nEstas barritas son realmente exquisitas😍 Tienen un sabor tostado muy agradable y su textura es suave. Además, las almendras y los copos de maíz les dan un toque crocante increíble!\n\nSi las hacen me mandan sus fotos!!💛",
+    "imagen": "barritasdecereal.jpg",
+    "Ingredientes": {
+    "Avena": "180 g de avena tradicional",
+    "Mantequilla de maní": "60 g de mantequilla de maní",
+    "Almendras": "30 g de almendras",
+    "Semillas de girasol": "25 g de semillas de girasol",
+    "Copos de maíz sin azúcar": "80 g de copos de maíz sin azúcar",
+    "Miel": "100 g de miel",
+    "Azúcar mascabo": "60 g de azúcar mascabo",
+    "Esencia de vainilla": "5 g de esencia de vainilla",
+    "Sal": "1/8 cucharadita de sal"
+    },
+    "procedimiento": "Tostado de ingredientes secos: Precalentar el horno a 180°C. Tostar la avena, las almendras y las semillas de girasol en una bandeja para horno durante 10 minutos.\n\nEn una olla a fuego bajo, calentar la mantequilla de maní, la miel, el azúcar mascabo, la esencia de vainilla y la sal. Revolver hasta que todos los ingredientes estén bien integrados y la mezcla esté suave.\n\nEn un bowl grande, mezclar la avena tostada, las almendras tostadas, las semillas de girasol tostadas, los copos de maíz y la mezcla líquida caliente. Mezclar bien para que todos los ingredientes se integren.\n\nColocar la mezcla en un molde rectangular forrado con papel manteca. Presionar bien para compactar.\n\nRefrigerar durante al menos 2 horas o hasta que las barritas estén firmes.\n\nCortar en barritas y disfrutar como snack saludable y delicioso."
+    }
+  },
   {
     "nombre": "Rosca de Pascua",
     "tipo": "panaderia",
