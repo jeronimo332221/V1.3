@@ -1,4 +1,21 @@
   {
+  "nombre": "Rosquitos de mi abuela Amalia💛",
+  "tipo": "panaderia",
+  "descripcion": "Cada vez que vamos a la casa de campo de mi abuela, en las Sierras de Córdoba, ella nos recibe con una bandeja llena de rosquitos😍\n\nLos rosquitos son bizcochitos dulces perfumados con vino blanco, que tienen forma de pequeñas roscas (de ahí el nombre!).\n\nMi abuela siempre hace muchos (somos muchos en la familia!) para acompañar el mate y el cafecito luego de un rico asado.\n\nTienen que hacer esta receta porque es muy fácil, se hace rápida y es riquísima!! Además, son ideales para acompañar el mate🧉",
+  "imagen": "",
+  "Ingredientes": {
+  "Rosquitos": {
+  "azúcar": "1 taza de azúcar",
+  "aceite": "1 taza de aceite",
+  "vino blanco": "1 taza de vino blanco",
+  "sal": "1 pizca de sal",
+  "harina leudante": "1 kg de harina leudante 0000",
+  "huevos (opcional)": "2 huevos"
+  }
+  },
+  "procedimiento": "En un bowl, mezclar el azúcar, el aceite, el vino blanco y la sal. Si se desea obtener rosquitos más tiernos, agregar los huevos.\n\nAgregar la harina leudante de a poco mientras se va mezclando. Amasar hasta obtener una masa suave y homogénea.\n\nPrecalentar el horno a 180°C.\n\nTomar porciones pequeñas de masa y darles forma de roscas.\n\nColocar los rosquitos en una bandeja para horno previamente engrasada o con papel manteca.\n\nHornear durante aproximadamente 15-20 minutos o hasta que estén dorados.\n\nDejar enfriar antes de servir. Disfrutar acompañados de mate o café."
+  },
+  {
     "nombre": "Barritas de cereal",
     "tipo": "snack",
     "descripcion": "¡Anímense a preparar sus propias barritas de cereal en casa con esta receta! Son un snack saludable, rico y económico🙌🏽\n\nEstas barritas son realmente exquisitas😍 Tienen un sabor tostado muy agradable y su textura es suave. Además, las almendras y los copos de maíz les dan un toque crocante increíble!\n\nSi las hacen me mandan sus fotos!!💛",
@@ -15,7 +32,6 @@
     "Sal": "1/8 cucharadita de sal"
     },
     "procedimiento": "Tostado de ingredientes secos: Precalentar el horno a 180°C. Tostar la avena, las almendras y las semillas de girasol en una bandeja para horno durante 10 minutos.\n\nEn una olla a fuego bajo, calentar la mantequilla de maní, la miel, el azúcar mascabo, la esencia de vainilla y la sal. Revolver hasta que todos los ingredientes estén bien integrados y la mezcla esté suave.\n\nEn un bowl grande, mezclar la avena tostada, las almendras tostadas, las semillas de girasol tostadas, los copos de maíz y la mezcla líquida caliente. Mezclar bien para que todos los ingredientes se integren.\n\nColocar la mezcla en un molde rectangular forrado con papel manteca. Presionar bien para compactar.\n\nRefrigerar durante al menos 2 horas o hasta que las barritas estén firmes.\n\nCortar en barritas y disfrutar como snack saludable y delicioso."
-    }
   },
   {
     "nombre": "Rosca de Pascua",
