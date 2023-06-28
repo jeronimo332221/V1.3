@@ -1,4 +1,80 @@
 [{
+  "nombre": "Pancitos para el desayuno",
+  "tipo": "pan",
+  "descripcion": "Esta receta te permitirá disfrutar de unos pancitos caseros esponjosos y deliciosos. Son ideales para el desayuno o para rellenar con tus ingredientes favoritos. ¡No te pierdas esta receta sencilla y deliciosa!",
+  "imagen": "pancitosparaeldesayuno",
+  "Ingredientes": {
+  "Masa": {
+  "harina": "340 g de harina 0000",
+  "agua": "300 g de agua",
+  "harina integral": "160 g de harina integral",
+  "aceite de oliva": "50 g de aceite de oliva",
+  "azúcar mascabo": "15 g de azúcar mascabo",
+  "sal": "10 g de sal",
+  "levadura seca": "5 g de levadura seca"
+  },
+  "Doradura": {
+  "huevo": "1",
+  "azúcar": "2 g de azúcar",
+  "leche": "10 g de leche"
+  },
+  "Mix de semillas": "semillas de chía, sésamo negro y blanco"
+  },
+  "procedimiento": "En un bowl, colocar el agua tibia, la levadura y el azúcar. Luego agregar las harinas y la sal. Mezclar y amasar hasta formar una masa. Incorporar el aceite y amasar por 3 minutos hasta obtener una masa homogénea. Darle forma de bollo a la masa, colocarla en un recipiente aceitado y tapar con papel plástico. Dejar leudar hasta que duplique su tamaño. Cortar porciones de 60 g y darles forma de bollo. Colocar los bollos en un recipiente aceitado y enharinado. Dejar leudar hasta que dupliquen su tamaño, aproximadamente 2 horas. Pintar con doradura y esparcir el mix de semillas por encima. Hornear a 190°C por 25-30 minutos."
+  },
+  {
+  "nombre": "Torta de aceite de oliva y naranja",
+  "tipo": "postre",
+  "descripcion": "Hacía mucho que quería probar un postre con aceite de oliva, así que ayer me animé y decidí preparar esta torta.\n\nLa verdad es que quedé sorprendida con el sabor y la humedad que le aportó el aceite de oliva a la masa😍\n\nEn esta oportunidad decidí perfumar con naranja, aunque puede utilizarse cualquier cítrico.\n\nPor último, una vez servida, acompañé con crema batida neutra y gajos de naranja a vivo.\n\n¡Definitivamente tienen que probar esta receta!\n\nVoy a estar esperando fotos de sus tortas💛🍶",
+  "imagen": "tortadeaceitedeoliva",
+  "Ingredientes": {
+  "Masa": {
+  "azúcar": "300 g de azúcar",
+  "harina": "240 g de harina 0000",
+  "aceite de oliva EXTRA VIRGEN": "220 g de aceite de oliva EXTRA VIRGEN (no puede utilizarse aceite de oliva o aceite de oliva virgen, solo extra virgen)",
+  "leche": "180 g de leche",
+  "jugo de naranja": "150 g de jugo de naranja",
+  "huevos": "3",
+  "polvo de hornear": "10 g de polvo de hornear",
+  "sal": "4 g de sal",
+  "Ralladura de 1 naranja": "Ralladura de 1 naranja",
+  "bicarbonato de sodio": "¼ cucharadita de bicarbonato de sodio"
+  },
+  "Extras": {
+  "crema batida neutra": "crema batida neutra",
+  "gajos de naranja": "gajos de naranja",
+  "romero fresco": "romero fresco"
+  }
+  },
+  "procedimiento": "Precalentar el horno a 170°C. Engrasar con aceite de oliva un molde de 24 cm, luego colocar una base de papel manteca o papel aluminio y colocarle aceite por encima también. En una batidora a velocidad alta, batir los huevos junto con el azúcar y la ralladura de naranja hasta formar una crema blanquecina. Añadir en forma de hilo el aceite y emulsionar. Bajar la velocidad al mínimo y agregar la leche y el jugo de naranja previamente mezclado con el bicarbonato de sodio (estos últimos al unirse reaccionarán formando una espuma). Agregar la harina, el polvo de hornear y la sal a la mezcla de huevos. Mezclar por unos segundos a velocidad baja y terminar de unir con la espátula. Colocar la mezcla en el molde y espolvorear azúcar por encima. Hornear por entre 60 - 80 minutos. Dejar enfriar por 30 minutos en el molde y luego desmoldar. Servir tibia o a temperatura ambiente, acompañada de crema batida neutra y gajos de naranja a vivo."
+  },
+  {
+  "nombre": "Tarta de manzana",
+  "tipo": "postre",
+  "descripcion": "Hoy preparamos una tarta de manzana riquísima para merendar💛\n\nLo que más me gusta de esta receta, es la textura cremosa del relleno de manzana y la suavidad de la masa.\n\nEsta tarta no solo puede servirse a la hora de la merienda, sino también como postre con una buena bocha de helado de crema americana.\n\n¡Espero que les guste mi versión!\n\nSi la preparan, no olviden mandarme foto de sus tartas de manzana😍",
+  "imagen": "tartademanzana",
+  "Ingredientes": {
+  "Masa": {
+  "harina": "400 g de harina 0000",
+  "azúcar": "65 g de azúcar",
+  "manteca": "150 g de manteca",
+  "leche fría": "150 g de leche fría",
+  "sal": "5 g de sal"
+  },
+  "Relleno": {
+  "manzanas": "10 manzanas medianas (rojas si prefieres un relleno más dulce, verdes si prefieres uno más ácido)",
+  "azúcar": "200 g de azúcar",
+  "canela en polvo": "¼ cucharadita de canela en polvo",
+  "nuez moscada": "¼ cucharadita de nuez moscada",
+  "manteca": "40 g de manteca",
+  "agua": "10 g de agua",
+  "almidón de maíz": "10 g de almidón de maíz",
+  "sal": "Pizca de sal"
+  }
+  },
+  "procedimiento": "Horno 170ºC por 40 - 50 minutos o hasta que dore la superficie."
+  },  
+  {
   "nombre": "Huevos Benedictinos",
   "tipo": "desayuno",
   "descripcion": "Preparamos un clásico del desayuno y brunch: Huevos Benedictinos🍳😍\n\nEste plato consiste en una rodaja de pan tostado que por encima tiene panceta o jamón, huevo pochado y salsa holandesa.\n\nLa clave para unos huevos benedictinos exitosos es la preparación previa de los ingredientes (mise en place) y la rapidez al cocinar, ya que los componentes del plato tienden a enfriarse muy rápido!\n\nTambién es importante tener listo antes de cocinar:\n\n1. Sartén precalentada\n2. Cacerola con agua caliente\n3. Cacerola con un poco de agua hirviendo y bowl para realizar baño María",
@@ -54,7 +130,7 @@
     "nombre": "Rosquitos de mi abuela Amalia💛",
     "tipo": "panaderia",
     "descripcion": "Cada vez que vamos a la casa de campo de mi abuela, en las Sierras de Córdoba, ella nos recibe con una bandeja llena de rosquitos😍\n\nLos rosquitos son bizcochitos dulces perfumados con vino blanco, que tienen forma de pequeñas roscas (de ahí el nombre!).\n\nMi abuela siempre hace muchos (somos muchos en la familia!) para acompañar el mate y el cafecito luego de un rico asado.\n\nTienen que hacer esta receta porque es muy fácil, se hace rápida y es riquísima!! Además, son ideales para acompañar el mate🧉",
-    "imagen": "",
+    "imagen": "rosquitos",
     "Ingredientes": {
       "Rosquitos": {
         "azúcar": "1 taza de azúcar",
@@ -71,7 +147,7 @@
     "nombre": "Barritas de cereal",
     "tipo": "snack",
     "descripcion": "¡Anímense a preparar sus propias barritas de cereal en casa con esta receta! Son un snack saludable, rico y económico🙌🏽\n\nEstas barritas son realmente exquisitas😍 Tienen un sabor tostado muy agradable y su textura es suave. Además, las almendras y los copos de maíz les dan un toque crocante increíble!\n\nSi las hacen me mandan sus fotos!!💛",
-    "imagen": "barritasdecereal.jpg",
+    "imagen": "barritasdecereal",
     "Ingredientes": {
       "Avena": "180 g de avena tradicional",
       "Mantequilla de maní": "60 g de mantequilla de maní",
