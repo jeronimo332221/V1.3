@@ -100,6 +100,7 @@ function buscarPortadaY_Populares(d, dp) {
   }
 }
 function preparado(datos, datosParam) {
+  cl(datos);
   buscador(datos);
   buscarPortadaY_Populares(datos, datosParam);
   buscarRecientes(datos);
@@ -708,5 +709,6 @@ function graficarBuscador(grupo) {
     section2.appendChild(enlace);
   });
   section.appendChild(section2);
+  cl(section);
   seccion.appendChild(section);
 }
