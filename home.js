@@ -39,30 +39,40 @@ function obtenerTodosLosDatos() {
   obtenerParam();
 }
 function obtenerParam() {
-  const xmlh = new XMLHttpRequest();
-  xmlh.open("GET", "home.json", true);
-  xmlh.send();
-
-  xmlh.onreadystatechange = function (e) {
-    if (e.target.readyState == 3) {
-      const datosParam = JSON.parse(this.responseText);
-      return obtenerDatos(datosParam);
-    } else {
-      return cl("nmo");
-    }
-  };
-  function obtenerDatos(datosParam) {
+  try {
     const xmlh = new XMLHttpRequest();
-    xmlh.open("GET", "datos.json", true);
+    xmlh.open("GET", "home.json", true);
     xmlh.send();
+
     xmlh.onreadystatechange = function (e) {
-      if (e.target.readyState == 4) {
-        const datos = JSON.parse(this.responseText);
-        preparado(datos, datosParam);
+      if (e.target.readyState == 3) {
+        const datosParam = JSON.parse(this.responseText);
+        return obtenerDatos(datosParam);
       } else {
         return cl("nmo");
       }
     };
+
+    function obtenerDatos(datosParam) {
+      try {
+        const xmlh = new XMLHttpRequest();
+        xmlh.open("GET", "datos.json", true);
+        xmlh.send();
+
+        xmlh.onreadystatechange = function (e) {
+          if (e.target.readyState == 4) {
+            const datos = JSON.parse(this.responseText);
+            preparado(datos, datosParam);
+          } else {
+            return cl("nmo");
+          }
+        };
+      } catch (error) {
+        console.error(error);
+      }
+    }
+  } catch (error) {
+    console.error(error);
   }
 }
 function buscarPortadaY_Populares(d, dp) {
